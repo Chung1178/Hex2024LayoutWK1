@@ -80,6 +80,7 @@ a {
 }
 .font-title {
     font-size: 128px;
+    letter-spacing: 0.12em;
 }
 .font-m {
     font-size: 32px;
